@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730535193 source:c:\users\yang1\onedrive\桌面\北ㄎ\程設\hw3-1\p23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
